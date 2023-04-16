@@ -134,3 +134,7 @@ the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Te
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
 >>>>>>> 6231b45a401a3c4ee191899ca0bac9f2429a4d0c
+
+## Ideas de Bots
+
+* test de wifus. 
